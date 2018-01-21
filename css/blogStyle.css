@@ -1,3 +1,8 @@
 img {
     width: 20%;
 }
+
+.footer {
+    justify-content: space-between;
+    list-style: none;
+}
