@@ -6,3 +6,11 @@ img {
     justify-content: space-between;
     list-style: none;
 }
+
+.blogContainer {
+    display: flex;
+}
+
+.blogCard {
+    margin: 5px;
+}
